@@ -1,3 +1,5 @@
+# Software Templates <img src="man/figures/logo.png" alt="Package Logo" width="100" align="right" />
+
 These are **example** files (that need to be carefully adapted for specific
 products/assays) that were released in early 2014 to illustrate CVBSOP 0102.
 
@@ -22,6 +24,13 @@ Estimating Relative Potency for Partially Linear Data
 
 
 # Gen5
+
+At the time these templates were developed, BioTek (Now Agilent) created a document titled
+"**Estimating Relative Potency for CVB using Gen5™ Software**".  Users of Gen5 may find this
+document useful when developing their own experiment files.  This document has been archived
+by Agilent but as of March 23, 2026, was still discoverable by performing a web search on
+title.
+
 
 Gen5 *example* experiment files for estimating relative potency.
 
