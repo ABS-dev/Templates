@@ -21,12 +21,6 @@ SoftMax Pro *example* protocol files for estimating relative potency.
 | Full dose response<br>(3PL)                 |   7.1.2 GXP   | [fulldose_2023.sdax](Softmax_v7.1.2/fulldose_2023.sdax)                   | Estimating Relative Potency<br>for Full Dose Curves      | `1 / RelPotPLA`  |
 | Partial Linear<br>Straight line             |   7.1.2 GXP   | [partiallylinear_2023.sdax](Softmax_v7.1.2/partiallylinear_2023.sdax)     | Estimating Relative Potency<br>for Partially Linear Data | `1 / RelPotPLA`  |
 
-
-
-Estimating Relative Potency for Full Dose Curves
-Estimating Relative Potency for Partially Linear Data
-
-
 # Gen5
 
 At the time these templates were developed, BioTek (Now Agilent) created a document titled
