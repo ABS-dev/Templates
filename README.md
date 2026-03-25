@@ -18,8 +18,8 @@ SoftMax Pro *example* protocol files for estimating relative potency.
 | Partial Linear<br>Straight line             |     6.3       | [partiallylinear.sprx](partiallylinear.sprx)                              | Estimating Relative Potency<br>for Partially Linear Data | `1 / RelPotPLA`  |
 | Full dose response<br>(3PL)                 |   7.0.3 GXP   | [fulldose.sprx](Softmax_v7.0.3 GXP/fulldose.sprx)                         | Estimating Relative Potency<br>for Full Dose Curves      | `1 / RelPotPLA`  |
 | Partial Linear<br>Straight line             |   7.0.3 GXP   | [partiallylinear.sprx](Softmax_v7.0.3 GXP/partiallylinear.sprx)           | Estimating Relative Potency<br>for Partially Linear Data | `1 / RelPotPLA`  |
-| Full dose response<br>(3PL)                 |   7.1.2 GXP   | [fulldose 2023.sdax](Softmax_v7.1.2 GXP/fulldose_2023.sdax)               | Estimating Relative Potency<br>for Full Dose Curves      | `1 / RelPotPLA`  |
-| Partial Linear<br>Straight line             |   7.1.2 GXP   | [partiallylinear 2023.sdax](Softmax_v7.1.2 GXP/partiallylinear_2023.sdax) | Estimating Relative Potency<br>for Partially Linear Data | `1 / RelPotPLA`  |
+| Full dose response<br>(3PL)                 |   7.1.2 GXP   | [fulldose_2023.sdax](Softmax_v7.1.2 GXP/fulldose_2023.sdax)               | Estimating Relative Potency<br>for Full Dose Curves      | `1 / RelPotPLA`  |
+| Partial Linear<br>Straight line             |   7.1.2 GXP   | [partiallylinear_2023.sdax](Softmax_v7.1.2 GXP/partiallylinear_2023.sdax) | Estimating Relative Potency<br>for Partially Linear Data | `1 / RelPotPLA`  |
 
 
 
