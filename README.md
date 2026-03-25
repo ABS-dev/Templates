@@ -13,9 +13,9 @@ these files. They are made available for investigational or pedagogical use only
 SoftMax Pro *example* protocol files for estimating relative potency.
 
 |                        Curve Type / Shape   |    Version    |                   Sample File                                             |                          Title                           |   RP Estimate    |
-|:-------------------------------------------:|:-------------:|:----------------------------------------------------------------------------:|:--------------------------------------------------------:|:----------------:|
-| Full dose response<br>(3PL)                 |     6.3       | [fulldose.sprx](fulldose.sprx)                                            | Estimating Relative Potency<br>for Full Dose Curves      | `1 / RelPotPLA`  |
-| Partial Linear<br>Straight line             |     6.3       | [partiallylinear.sprx](partiallylinear.sprx)                              | Estimating Relative Potency<br>for Partially Linear Data | `1 / RelPotPLA`  |
+|:-------------------------------------------:|:-------------:|:-------------------------------------------------------------------------:|:--------------------------------------------------------:|:----------------:|
+| Full dose response<br>(3PL)                 |     6.3       | [fulldose.sprx](Softmax_v6.3/fulldose.sprx)                               | Estimating Relative Potency<br>for Full Dose Curves      | `1 / RelPotPLA`  |
+| Partial Linear<br>Straight line             |     6.3       | [partiallylinear.sprx](Softmax_v6.3/partiallylinear.sprx)                 | Estimating Relative Potency<br>for Partially Linear Data | `1 / RelPotPLA`  |
 | Full dose response<br>(3PL)                 |   7.0.3 GXP   | [fulldose.sprx](Softmax_v7.0.3/fulldose.sprx)                             | Estimating Relative Potency<br>for Full Dose Curves      | `1 / RelPotPLA`  |
 | Partial Linear<br>Straight line             |   7.0.3 GXP   | [partiallylinear.sprx](Softmax_v7.0.3/partiallylinear.sprx)               | Estimating Relative Potency<br>for Partially Linear Data | `1 / RelPotPLA`  |
 | Full dose response<br>(3PL)                 |   7.1.2 GXP   | [fulldose_2023.sdax](Softmax_v7.1.2/fulldose_2023.sdax)                   | Estimating Relative Potency<br>for Full Dose Curves      | `1 / RelPotPLA`  |
@@ -38,8 +38,8 @@ title.
 
 Gen5 *example* experiment files for estimating relative potency.
 
-|                        Curve Type / Shape                        |                   Sample File                  |                        Description                      | RP Estimate |
-|:----------------------------------------------------------------:|:----------------------------------------------:|:-------------------------------------------------------:|:-----------:|
-| Full dose response (3PL)<br>descending left to right             | [RP_descending_dil.xpt](RP_descending_dil.xpt) | Non-competitive,<br>$x$-axis is dilution                |  `1 / REP`  |
-| Full dose response (3PL)<br>ascending left to right              | [RP_ascending_dil.xpt](RP_ascending_dil.xpt)   | Competitive,<br>$x$-axis is dilution                    |  `1 / REP`  |
-| Partial or Fully Linear/Straight<br>line ascending or descending | [RP_linear_dil.xpt](RP_linear_dil.xpt)         | Competitive or Non-competitive,<br>$x$-axis is dilution |  `1 / REP`  |
+|                        Curve Type / Shape                        |                   Sample File                       |                        Description                      | RP Estimate |
+|:----------------------------------------------------------------:|:---------------------------------------------------:|:-------------------------------------------------------:|:-----------:|
+| Full dose response (3PL)<br>descending left to right             | [RP_descending_dil.xpt](Gen5/RP_descending_dil.xpt) | Non-competitive,<br>$x$-axis is dilution                |  `1 / REP`  |
+| Full dose response (3PL)<br>ascending left to right              | [RP_ascending_dil.xpt](Gen5/RP_ascending_dil.xpt)   | Competitive,<br>$x$-axis is dilution                    |  `1 / REP`  |
+| Partial or Fully Linear/Straight<br>line ascending or descending | [RP_linear_dil.xpt](Gen5/RP_linear_dil.xpt)         | Competitive or Non-competitive,<br>$x$-axis is dilution |  `1 / REP`  |
